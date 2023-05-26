@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Privaula
-- 👀 I’m interested in Webdevelopment.
-- 🌱 I’m currently learning HTML, CSS, JavaScript and co.
+- 👀 I’m interested in Webdevelopment and Java.
+- 🌱 I’m currently learning HTML, CSS, JavaScript and Java.
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me: Discord Privaula#0086
 
